@@ -1,0 +1,21 @@
+body {
+    background-color: rgba(20, 20, 20, 1); /* Semi-transparent red background */
+    color: white;
+}
+
+#disclaimer-header, #challenge-header, #rules-header{
+    color: #00ffbb;
+}
+
+.disclaimer-div {
+    background-color: rgba(35, 35, 35, 1);
+    padding: 1.5em 1em;
+}
+
+.disclaimer-item-title {
+    font-style: italic;
+}
+
+.table-dark {
+        background-color: rgba(35, 35, 35, 1);
+}
